@@ -24,7 +24,7 @@ INSTALLATION
 
 1. Clone the repository: git clone https://github.com/Patience-Fuglo/Travel-Booking-App.git
 2. Navigate to the project directory: cd travel-booking-app
-3. Install dependencies: npm init -y, npm install
+3. Install dependencies: npm install
 4. Set up environment variables:
 5. Create a .env file in the root directory.
 6. Add necessary environment variables, such as database connection details, API keys, etc.
