@@ -1,8 +1,8 @@
-           Travel Booking App
+TRAVEL-BOOKING-APP✈️✈️🌏🌏
 
 The Travel Booking App is a web application that allows users to book flights, hotels, and car rentals for their travel needs. It provides a user-friendly interface for searching, selecting, and making reservations for various travel services.
 
-            Features
+FEATURES
 
 Search and filter flights, hotels, and car rentals based on destination, dates, and other criteria.
 View detailed information and prices for available options.
@@ -40,10 +40,10 @@ Access the user profile to view past bookings and manage personal information.
 Contributing
 Contributions to the Travel Booking App are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-License
+LICENSE
 The Travel Booking App is open-source and released under the MIT License.
 
-Contact
+CONTACT
 For any inquiries or feedback, please contact the project maintainers:
 
 Patience Fuglo - patfug3@gmail.com
