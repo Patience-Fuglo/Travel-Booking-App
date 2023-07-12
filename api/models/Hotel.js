@@ -1,7 +1,4 @@
-//install from mongoose
 import mongoose from "mongoose";
-// const { schema } = mongoose;
-
 const HotelSchema = new mongoose.Schema({
   name: {
     type: String,
@@ -46,7 +43,7 @@ const HotelSchema = new mongoose.Schema({
     type: Number,
     required: true,
   },
-  features: {
+  featured: {
     type: Boolean,
     default: false,
   },
