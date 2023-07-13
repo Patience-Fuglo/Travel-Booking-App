@@ -150,3 +150,5 @@ const Hotel = () => {
     </div>
   );
 };
+
+export default Hotel;
